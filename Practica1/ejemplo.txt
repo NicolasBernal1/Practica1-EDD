@@ -1,9 +1,0 @@
-1, juan, no se, 9
-2, juan, no se, 8
-3, juan, no se, 7
-4, juan, no se, 6
-5, juan, no se, 5
-6, juan, no se, 4
-7, juan, no se, 3
-8, juan, no se, 2
-9, juan, no se, 1
